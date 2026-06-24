@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Dataset
+Dataset/
+
+# Trained model
+*.keras
+*.h5
+
+# Node
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
