@@ -7,7 +7,7 @@ __pycache__/
 Dataset/
 
 # Trained model
-*.keras
+// *.keras
 *.h5
 
 # Node
